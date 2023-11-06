@@ -9,4 +9,6 @@ https://www.python.org/downloads/
 
 Realizado en Visual Studio Code 
 
+Recuerden qque esto es un script basico , lo pueden utilizar y modificar como ustedes mejor les parezca.
+
 
